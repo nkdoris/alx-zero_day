@@ -1,1 +1,1 @@
-My first readme
+editing to the terminal
